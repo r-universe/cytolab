@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cytoMEM"]
 	path = cytoMEM
 	url = https://github.com/cytolab/cytomem
-	shallow = true
-	registered = true
